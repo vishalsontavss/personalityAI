@@ -1,0 +1,8 @@
+{
+  "name": "Personality Disorders Using AI",
+  "description": "A HIPAA-aware professional healthcare platform for AI-driven personality disorder screening and specialist consultation booking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
